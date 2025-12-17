@@ -1,0 +1,1 @@
+A fork is a copy of someone else’s repository that is created in your own GitHub account.
